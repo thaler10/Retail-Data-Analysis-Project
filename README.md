@@ -1,7 +1,11 @@
 # 🛒 Retail Data Analysis: Shefa Issachar
 ### Data-Driven Solutions for Operational & Business Challenges
 
----
+## 📝 Introduction
+This project presents an end-to-end data analysis of the "Shefa Issachar" supermarket branch in Yavne. By integrating raw **Geolocation signals** with **Point-of-Sale (POS) transaction logs**, I conducted a deep-dive investigation into consumer behavior and store operations. 
+
+The primary objective was to transform fragmented data into actionable business strategies—ranging from workforce management to market expansion. This project demonstrates the application of advanced SQL techniques, statistical modeling, and data visualization to solve real-world retail challenges.
+
 
 ## 🔍 Business Challenges & Solutions
 
