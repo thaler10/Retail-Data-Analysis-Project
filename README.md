@@ -19,6 +19,8 @@ The primary objective was to transform fragmented data into actionable business 
 
 <img width="1200" height="742" alt="image" src="https://github.com/user-attachments/assets/fa1336b9-0001-4955-bdca-0d1899416d4c" />
 
+<img width="566" height="686" alt="image" src="https://github.com/user-attachments/assets/83559df7-7e3a-4f26-a15e-d3cc8d9f554b" />
+
 ---
 
 ### 2. [Workforce Optimization & Gap Analysis](sql_queries/operations_workforce_optimization.sql)
@@ -28,6 +30,9 @@ The primary objective was to transform fragmented data into actionable business 
 
 #### Traffic Heatmap (Darker red means more customers traffic per hour in average):
 <img width="1400" height="900" alt="image" src="https://github.com/user-attachments/assets/09cc1960-9493-4e04-83f6-099c5c0395d9" />
+
+#### Cashier Gap Analysis: Red indicates a staffing shortage, green represents a labor surplus, and bar height quantifies the headcount delta.
+<img width="1074" height="722" alt="image" src="https://github.com/user-attachments/assets/247b3d8d-4e44-4a17-b5af-f3451a92a565" />
 
 
 ---
@@ -47,6 +52,8 @@ The primary objective was to transform fragmented data into actionable business 
 * **Technical Solution:** Integrated **CBS (Lamas) demographic data** with competitor location mapping.
 * **Business Impact:** * **Market Expansion:** Identified significant untapped potential in Yavne, necessitating targeted marketing to increase the 2.7% market share.
     * **Retention Maximization:** Recommended a dual strategy: maximizing existing customer value while aggressively acquiring new ones.
+
+<img width="1200" height="742" alt="image" src="https://github.com/user-attachments/assets/41c31c92-ea4f-447d-be7e-d3a368d0b64f" />
 
 ---
 
