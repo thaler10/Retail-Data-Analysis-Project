@@ -19,7 +19,9 @@ The primary objective was to transform fragmented data into actionable business 
 
 <img width="1200" height="742" alt="image" src="https://github.com/user-attachments/assets/fa1336b9-0001-4955-bdca-0d1899416d4c" />
 
-<img width="566" height="686" alt="image" src="https://github.com/user-attachments/assets/83559df7-7e3a-4f26-a15e-d3cc8d9f554b" />
+<p align="center">
+  <img width="566" height="686" alt="image" src="https://github.com/user-attachments/assets/83559df7-7e3a-4f26-a15e-d3cc8d9f554b" />
+</p>
 
 ---
 
